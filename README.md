@@ -20,3 +20,5 @@ use resources efficiently to win. This suits me very well, as I always want to d
   * Socket
   * PyInstaller
 ```
+### Make sure to star the repository if you find it helpful!
+<a href="https://github.com/Quynh-Linh-IT/BoomingGameEmpire/stargazers"><img src="https://img.shields.io/github/stars/Quynh-Linh-IT/BoomingGameEmpire?color=yellow" alt="Stars Badge"/></a>
